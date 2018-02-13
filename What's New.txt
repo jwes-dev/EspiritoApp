@@ -1,0 +1,7 @@
+class _es_upload renames to _es_drive
+added functions
+    download(<file_id_as_in_database>);
+        given the id of a file, the script will send back the file as download;
+
+    all_files();
+        returns the list of files in the database;

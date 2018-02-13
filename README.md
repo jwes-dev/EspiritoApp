@@ -1,0 +1,1 @@
+This is a simple app to control your magazine work flow
